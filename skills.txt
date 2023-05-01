@@ -1,4 +1,5 @@
-Postman
-SQL
-Terminal
-Github
+1. Postman
+2. SQL
+3. Terminal
+4. Github
+5. Test design

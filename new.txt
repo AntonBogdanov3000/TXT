@@ -1,5 +1,5 @@
-Bogdanov
-Anton
-33
-1
-3000$
+Surname: Bogdanov
+Name: Anton
+Age: 33
+Pets: 1
+Salary: 3000$

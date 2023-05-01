@@ -1,2 +1,9 @@
-Name - Some bug
-Status - Open
+id: 1
+title: "Issue in shopping cart"
+steps to reproduce: 1. add item in cart; 2. click on Buy button
+expected result: "Move to order page"
+actual result: "Buy button does not active"
+reporter: Bogdanov A.
+severity: High
+priority: High
+environment: Crome, Mac OS
